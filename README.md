@@ -1,4 +1,4 @@
 # LearnGitHub
 This is my GitHub repo
 <br>
-Author - Sameer
+Author - Sameer (Learn DevOps)
